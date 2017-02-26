@@ -1,0 +1,68 @@
+nav{
+	background-color: #2F2E2E !important;
+}
+
+
+.logo{
+	color: #fffde7 !important;
+	padding-top: 50px;
+}
+
+.judul{
+	color: #fffde7 !important;
+	margin-top: -20px !important;
+	font-family: roboto-thin !important;
+}
+
+.judul1{
+	color: #fffde7 !important;
+	margin-top: -30px !important;
+	padding-bottom: 130px !important;
+	font-family: roboto-thin !important;
+}
+
+.socmed1{
+	width: 85px;
+	height: 70px;
+}
+
+.socmed2{
+	width: 70px;
+	height: 70px;
+}
+
+.socmed3{
+	width: 85px;
+	height: 65px;
+}
+
+hr {
+	color: #fff;
+}
+
+.service{
+	padding-top: 150px !important;
+}
+
+
+.img-responsive{
+    width: 435px;
+    height: 296px;
+}
+
+.work{
+	padding-top: 30px !important;
+}
+
+.about{
+	padding-top: 80px !important;
+}
+
+#contact{
+	padding-top: 80px !important;
+	padding-bottom: 100px !important;
+}
+
+.tombol{
+	background-color: #000000 !important;
+}
